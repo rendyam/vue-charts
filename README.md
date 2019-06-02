@@ -2,33 +2,12 @@
 # vue-charts
 charts with vue js
 =======
-# vue-echarts-demo
 
-## Project setup
-```
-npm install
-```
+Assalaamu'alaykum...
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+I just followed this tutorial -> https://medium.com/js-dojo/how-to-add-charts-and-graphs-to-a-vue-js-application-29f943a45d09
+and just uploaded the source code to my github.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+It is easy to create charts in your app using VueJS. Just follow the tutorial above and you'll be happy to see the result.
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> init
+I hope you have a great day!
